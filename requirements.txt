@@ -1,0 +1,10 @@
+Flask
+opencv-python
+pymysql
+
+flask-login
+onnxruntime
+opencv-python-headless
+werkzeug
+pillow
+numpy
